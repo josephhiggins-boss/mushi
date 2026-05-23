@@ -1,0 +1,6 @@
+# Mushi dependencies
+
+# Telegram HTTP API + LLM SDKs
+requests>=2.31
+anthropic>=0.40
+openai>=1.50

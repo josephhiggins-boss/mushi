@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Runtime state
+*.log
+cost_log.jsonl
+cc_logs/
+.bot_passhash
+.think_sessions.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
